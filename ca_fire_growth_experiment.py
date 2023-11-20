@@ -3,7 +3,7 @@
 """
 Created on Tue Oct  4 20:35:51 2022
 
-@author: steph
+@author: eltadcirad
 """
 from ca_fire import evolve_forest, write_netcdf
 
